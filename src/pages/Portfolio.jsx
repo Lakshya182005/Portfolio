@@ -392,9 +392,6 @@ export default function Portfolio() {
                         </LazySection>
                     </div>
 
-                    <div className="p-6 text-center text-[#949ba4] text-xs">
-                        <p>Built with ❤️ by Lakshya Agrawal • {new Date().getFullYear()}</p>
-                    </div>
                 </div>
             </div>
         </div>
